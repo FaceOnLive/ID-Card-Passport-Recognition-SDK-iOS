@@ -1,0 +1,6 @@
+framework module TTVIDCardSDK {
+  umbrella header "TTVIDCardSDK.h"
+
+  export *
+  module * { export * }
+}
