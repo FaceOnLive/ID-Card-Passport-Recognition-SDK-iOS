@@ -1,17 +1,22 @@
-✨ _**Update (Mar 1, 2024):**_
-Introduce **OpenKYC Community Project**, build your own eKYC solution and contribute at this [Github Repo](https://github.com/FaceOnLive/OpenKYC), try at [HuggingFace Space](https://huggingface.co/spaces/FaceOnLive/OpenKYC).
-
-✨ Update: Our API portal is now live, offering free APIs for various AI solutions, including face recognition, liveness detection, and ID document recognition.
-Make sure to check it out at https://getapi.faceonlive.com and take advantage of our free offerings.
+<div align="center">
+  <a href="https://join.slack.com/t/faceonlive/shared_invite/zt-2drx19c5t-vQsR4TUGPD8oL7i7BXdKZA">Slack</a>
+    ·
+   <a href="https://www.faceonlive.com/">Website</a>
+    ·
+   <a href="https://portfolio.faceonlive.com">Portfolio</a>  
+    ·
+    <a href="https://www.huggingface.co/FaceOnLive">Hugging Face</a>
+    ·
+    <a href="https://getapi.faceonlive.com">Free APIs</a>
+    ·
+    <a href="https://github.com/FaceOnLive/OpenKYC">OpenKYC</a>  
+    ·
+    <a href="https://github.com/FaceOnLive/Mask-Face-Attendance-App-Flutter">Face Attendance</a>  
+    ·
+    <a href="mailto:contact@faceonlive.com">Contact</a>
+</div>
 <h1 align="center">ID Card, Passport, Driver License Recognition SDK for iOS</h1>
 <p align="center">On-Device & Offline, Robust, ID Card, Passport, Driver License OCR SDK for iOS</p>
-
-<p align="center">
-<a href="https://twitter.com/intent/tweet?text=On-Device,%20Robust,%20ID%20Card,%20Passport,%20Driver%20License%20OCR%20SDK%20for%20iOS%0D%0D&url=https://github.com/FaceOnLive/ID-Card-Passport-Recognition-SDK-iOS%0D%0D&hashtags=computervision,deeplearning,ocr,identity,idcard,passport,driverlicense,android,developers"><img src="http://randojs.com/images/tweetShield.svg" alt="Tweet" height="20"/></a>&emsp;<a href="https://t.me/faceonlive"><img src="https://badgen.net/badge/icon/telegram?icon=telegram&label" alt="Telegram" height="20"/></a>
-</p>
-
-Contact Us (mailto:contact@faceonlive.com)
-
 
 https://user-images.githubusercontent.com/91896009/140002705-f3f0e440-0568-4333-bc97-a1f9b1cf7b8b.mp4
 
